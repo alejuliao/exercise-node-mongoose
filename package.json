@@ -1,0 +1,15 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "Exemplo de API em Node.js usando MongoDB e Mongoose",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3",
+    "nodemon": "^2.0.7"
+  }
+}
